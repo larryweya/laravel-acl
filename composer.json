@@ -1,0 +1,24 @@
+{
+    "name": "larryweya/laravel-acl",
+    "description": "",
+    "authors": [
+        {
+            "name": "Larry Weya",
+            "email": "larryweya@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "zendframework/zend-permissions-acl": "2.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "LarryWeya\\Acl\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
