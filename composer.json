@@ -17,7 +17,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "LarryWeya\\Acl\\": "src/"
+            "LarryWeya\\LaravelAcl\\": "src/"
         }
     },
     "minimum-stability": "stable"
